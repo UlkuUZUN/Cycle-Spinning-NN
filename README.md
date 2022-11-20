@@ -20,4 +20,9 @@ Cycle-Spinning (CS) method usage in deep learning
   </p>
 </div>
 
+<div align="center">
+  <p>
+  <img width="850" src="https://github.com/UlkuUZUN/assets/blob/main/Weights&Biases.png">
+  </p>
+</div>
 
