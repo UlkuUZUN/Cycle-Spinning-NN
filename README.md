@@ -1,6 +1,7 @@
 # Cycle-Spinning-NN
-Cycle-Spinning (CS) method usage in deep learning
-
+Cycle-Spinning (CS) method usage in deep learning. Papers:
+(<a href="https://ieeexplore.ieee.org/document/9832606" rel="nofollow"> Cycle-Spinning Convolution for Object Detection </a>) and
+(<a href="https://ieeexplore.ieee.org/document/8909824" rel="nofollow"> Cycle-Spinning GAN for Raindrop Removal from Images </a>)
 ## Cycle-Spinning methodology
 
     - Exploits the shift variance of the underlying method.
