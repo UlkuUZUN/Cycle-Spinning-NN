@@ -21,9 +21,18 @@ Cycle-Spinning (CS) method usage in deep learning. Papers:
   </p>
 </div>
 
+We repeated the experiment by adding Gaussian noise to the Lena image seen in Figure. 
+The results of the convolution, CS applied and low-pass filtered versions of the Lena image are show sequentially.
+In the upper row of figure, 8 times magnification of Lena’s hat section is shown for better view of the details.
+As a result, it is seen that the CS method implementation removes noise without losing details.
+When the results have been compared with the low-pass filtered version, it is also seen that the edge lines of the objects are not blurred in the CS-implemented version.
+
+
 <div align="center">
   <p>
-  <img width="850" src="https://github.com/UlkuUZUN/assets/blob/main/Weights&Biases.png">
+  <img width="850" src="https://github.com/UlkuUZUN/assets/blob/main/2DExperiments.png">
   </p>
 </div>
+
+
 
